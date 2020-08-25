@@ -1,0 +1,135 @@
+
+body{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.contact-body{
+    text-align: initial;
+}
+p{
+    
+    font-family: 'Baloo Tamma 2', cursive;
+}
+.top-header{
+
+    font-size: 5.625rem;
+    text-align: center;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+   
+}
+h1{
+    padding-top: 50px;
+    line-height: 1;
+    color: #66BFBF;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Baloo Tamma 2', cursive;
+}
+.h2-myskills{
+    position: relative;
+    top: 40px;
+}
+h3{
+    color: #11999E;
+    font-family: 'Baloo Tamma 2', cursive;
+}
+.top-p{
+    
+    font-weight: normal;
+    color: #66BFBF;
+    font-size: 2.5rem;
+    font-family: 'Lilita One', cursive;
+}
+.top-container{
+    background-color: #e4f9f5;
+}
+.middle-container{
+    
+    background-color: rgb(255, 255, 255);
+}
+.bottom-container{
+    
+    background-color: #66BFBF;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+}
+.top-cloud{
+    position: relative;
+    margin: 5% 10% 0 50%;
+    
+}
+.circle-image{
+    width: 150px;
+}
+.skills-image{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 70px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+.footer-link{
+    color: #11999E;
+    margin-right: 50px;
+    position: relative;
+    left: 20px;
+    text-decoration: none;
+}
+.footer-link-more{
+    position: relative;
+    top: 10px;
+    color: #11999E;
+    text-decoration: none;
+}
+.last-p{
+    color: #EAF6F6;
+    position: relative;
+    top: 20px;
+}
+.horizontal-bar{
+    border-top: dotted 6px;
+    border-bottom: none;
+    width: 4%;
+    color: #78afaf;
+    position: relative;
+    top: 20px;
+    margin: 70px auto;
+
+}
+.horizontal-bar2{
+    border-top: dotted 6px;
+    border-bottom: none;
+    width: 4%;
+    color: #78afaf;
+    position: relative;
+    top: -10px;
+    margin: 70px auto;
+}
+.footer-link:hover{
+    color: #EAF6F6;
+}
+.footer-link-more:hover{
+    color: #EAF6F6;
+}
+.contact-list:hover{
+     color: aqua;
+}
+.footer-link-contact{
+    color: rgb(18, 19, 20);
+}
+.footer-link-contact:hover{
+    color: rgb(113, 113, 233);
+}
