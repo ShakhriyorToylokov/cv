@@ -234,7 +234,7 @@ h3{
   .question{
       font-size: 130%;
   }
-  @media only screen and (max-width: 450px){
+  @media only screen and (max-width: 380px){
     .top-header{
         font-size: 2rem;
         text-align: center;
@@ -260,7 +260,7 @@ h3{
         width: 100px;
     }
     .mountain-image{
-        width: 293px;
+        width: 300px;
         position: relative;
         margin: 7% 3% 0.2% 6%;
     }
@@ -284,32 +284,43 @@ h3{
     }
     p{
         font-size: 70%;
+        margin-top: -5%;
     }
     .skill-row{
         width: 50%;
         margin: 70px 10px;
         text-align: left;
         line-height: 2;
+        margin-left: 3%;
+    }
+    .abc{
+        width: 50%;
+        margin: 70px 10px;
+        text-align: left;
+        line-height: 2;
+        margin-left: 8%;
     }
     .skills-image{
         width: 35%;
         float: left;
         position: relative;
-        margin-right: 30px;
+        left: 10%;
     }
     .skill-text{
         text-align: left;
         margin-left: 20%;
+        width: 150%;
     }
     .design{
-        position: absolute;
-        top: 200.1%;
+        padding-bottom: 25px ;
     }
     .horizontal-bar{
-        width: 5%;
+        width: 7%;
+        margin: 30px auto;
     }
     .horizontal-bar2{
-        width: 5%;
+        width: 7%;
+        margin: 30px auto;
     }
     .question{
         font-size: 100%;
@@ -326,4 +337,14 @@ h3{
         top: 1%;
         font-size: 100%;
     }
+    .footer-link{
+        font-size: 59%;
+    }
+    .footer-link-more{
+        font-size: 65%;       
+    }
+    .last-p{
+        margin-top: 8%;
+    }
+    
   }
